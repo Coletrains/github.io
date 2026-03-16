@@ -5,7 +5,7 @@
   
 Student Academic Performance Factors - The dataset contains 6607 individual student records pertaining to student lifestyle, socio-economic, academic and social factors. These records are compared against various outcomes, mainly student exam score to provide insight into the various factors that influence student academic performance. 
 
-### 💻 SQL Code Samples
+### SQL Code Samples
 
 * **[01. KPI Metrics](01_KPI_Metrics.sql)** - Calculates core student performance metrics.
 * **[02. Score Distribution](02_Score_Distribution.sql)** - Aggregates data for exam score histograms.
