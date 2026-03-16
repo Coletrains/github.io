@@ -3,7 +3,7 @@ Teacher Quality Impact Study: A query calculating the "Score Lift" between high 
 
 ### 💻 SQL Analysis Projects
 
-* **[01. [cite_start]KPI Metrics](01_KPI_Metrics.sql)** - Calculates core student performance metrics[cite: 2].
+* **[01. KPI Metrics](01_KPI_Metrics.sql)** - Calculates core student performance metrics[cite: 2].
 * **[02. Score Distribution](02_Score_Distribution.sql)** - Aggregates data for exam score histograms.
 * **[03. Motivation Analysis](03_Motivation_Analysis.sql)** - Proportional analysis of student motivation levels.
 * **[04. Teacher Impact Study](04_Teacher_Impact_Analysis.sql)** - Analysis of teaching quality vs. student outcomes.
