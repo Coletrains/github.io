@@ -1,6 +1,6 @@
 **SQL Analysis Projects**
 
-## 📊 Interactive Tableau Dashboard
+## Interactive Tableau Dashboard
 * **[View Live Dashboard: Student Performance Analysis](https://public.tableau.com/shared/6SZRF4W5B?:display_count=n&:origin=viz_share_link)**
   
 Student Academic Performance Factors - The dataset contains 6607 individual student records pertaining to student lifestyle, socio-economic, academic and social factors. These records are compared against various outcomes, mainly student exam score to provide insight into the various factors that influence student academic performance. 
@@ -15,6 +15,6 @@ Student Academic Performance Factors - The dataset contains 6607 individual stud
 * **[06. Peer Influence](06_Peer_Influence.sql)** - Analysis of average exam scores across gender and peer influence levels.
 * **[07. Parental Education](07_Parental_Education.sql)** - Examination of how different levels of parental education correlate with student outcomes.
 
-## 🛠️ Technical Skills
+## Technical Skills
 * **Data Analysis:** SQL (Common Table Expressions, Window Functions, Aggregate Analysis)
 * **Visualization:** Tableau Desktop (Parameters, KPIs, Trend Analysis)
