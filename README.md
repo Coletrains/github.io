@@ -16,5 +16,5 @@ Student Academic Performance Factors - The dataset contains 6607 individual stud
 * **[07. Parental Education](07_Parental_Education.sql)** - Examination of how different levels of parental education correlate with student outcomes.
 
 ## Technical Skills
-* **Data Analysis:** SQL (Common Table Expressions, Window Functions, Aggregate Analysis)
+* **Data Analysis:** SQL (Filtering, Aggregate Functions, Common Table Expressions, Window Functions)
 * **Visualization:** Tableau Desktop (Parameters, KPIs, Trend Analysis)
