@@ -2,10 +2,11 @@
 Teacher Quality Impact Study: A query calculating the "Score Lift" between high and low-quality teaching environments.
 
 ### 💻 SQL Analysis Projects
-* [KPI Metrics](SQL_Queries/01_KPI_Metrics.sql) - Calculates Total Students and Exam Delta.
-* [Score Distribution](SQL_Queries/02_Score_Distribution.sql) - Groups students by exam score for histograms.
-* [Motivation Heatmap](SQL_Queries/03_Motivation_Heatmap.sql) - Uses Window Functions to show proportions by school type.
-* [Teacher Impact Study](SQL_Queries/04_Teacher_Impact_Analysis.sql) - Measures the "Score Lift" between high and low quality teaching.
-* [Raw Correlation Data](SQL_Queries/05_Raw_Correlation_Data.sql) - Extracts variables for scatter plot analysis.
+
+* **[01. [cite_start]KPI Metrics](01_KPI_Metrics.sql)** - Calculates core student performance metrics[cite: 2].
+* **[02. Score Distribution](02_Score_Distribution.sql)** - Aggregates data for exam score histograms.
+* **[03. Motivation Analysis](03_Motivation_Analysis.sql)** - Proportional analysis of student motivation levels.
+* **[04. Teacher Impact Study](04_Teacher_Impact_Analysis.sql)** - Analysis of teaching quality vs. student outcomes.
+* **[05. Correlation Raw Data](05_Correlation_Raw_Data.sql)** - Dataset preparation for scatter plot visualizations.
 
 Student Motivation Heatmap: Advanced SQL using WINDOW FUNCTIONS to calculate proportions across different school types.
